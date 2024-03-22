@@ -1,4 +1,5 @@
 # MindReader
+( You have to open/download the exe thing btw )
 Hi, This is my new little project called Mind Reader, its just a mind reading game lol
 
 # Think a number
