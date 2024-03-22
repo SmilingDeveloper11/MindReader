@@ -1,2 +1,2 @@
 # MindReader
-A little game created by me called Mind Reader
+Hi, This is my new little project called Mind Reader, its just a mind reading game lol
